@@ -3,7 +3,7 @@ package co.develhope.springrepositories1.entities;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "/cars")
+@Table(name = "cars")
 public class Car {
 
     @Id
